@@ -28,8 +28,6 @@ Privacy-first: all processing stays local, no data sent to third-party servers. 
 
 Upgrade to the Pro version for **$29.99** and unlock all premium features.
 
-**[Buy on Gumroad](https://cleargum.gumroad.com/l/ndemze)** — Instant download, lifetime updates
-
 **[Buy Now (Stripe)](https://buy.stripe.com/3cIaEXdPpe2M9JK9rKcZx2W)** — Secure checkout
 
 ## Installation
@@ -41,7 +39,6 @@ Upgrade to the Pro version for **$29.99** and unlock all premium features.
 ## Support
 
 - Open an [issue](../../issues) for bug reports
-- Pro customers get priority support via the [purchase platform](https://cleargum.gumroad.com/l/ndemze)
 
 ## License
 
